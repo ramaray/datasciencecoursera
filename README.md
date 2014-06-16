@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This is a test - 
+This is a readme file. Updates coming soon ... 
